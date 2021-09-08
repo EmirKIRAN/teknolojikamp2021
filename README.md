@@ -32,3 +32,16 @@ PARAMETRELER
 *   -c : Sistemdeki yüklü paket sayısını gösterilmesini sağlar.
 *   -o : Paketin sistemde olmaması halinde çıktıyı engellemek için kullanılır. Genel olarak sadece paket sayısını yazdırmak için bu parametre girdisi verilir.
 
+<br>
+ÖRNEK ÇIKTI
+<br><br>
+
+![alt text](./images/pacman.png)
+<br><br>
+
+![alt text](./images/nanpac.png)
+<br><br>
+
+## YAZARLAR
+
+Emirhan KIRAN - [Linkedin](https://www.linkedin.com/in/emir-kiran/)
